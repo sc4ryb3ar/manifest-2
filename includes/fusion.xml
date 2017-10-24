@@ -23,7 +23,7 @@
   <project path="development" name="PureFusionOS/android_development" remote="fusion" />
 
   <!-- Vendor -->
-  <project path="vendor/pure" name="PureFusionOS/android_vendor_pure" remote="fusion" />
+  <project path="vendor/pure" name="sc4ryb3ar/Pure_Vendor" remote="github" />
 
   <!-- System  -->
   <project path="system/bt" name="PureFusionOS/android_system_bt" remote="fusion" />
@@ -120,7 +120,6 @@
   <project path="packages/apps/CellBroadcastReceiver" name="PureFusionOS/android_packages_apps_CellBroadcastReceiver" remote="fusion" />
   <project path="packages/apps/Contacts" name="PureFusionOS/android_packages_apps_Contacts" remote="fusion" />
   <project path="packages/apps/ContactsCommon" name="PureFusionOS/android_packages_apps_ContactsCommon" remote="fusion" />
-  <project path="packages/apps/ExactCalculator" name="PureFusionOS/android_packages_apps_ExactCalculator" remote="fusion" />
   <project path="packages/apps/PackageInstaller" name="PureFusionOS/android_packages_apps_PackageInstaller" remote="fusion" />
   <project path="packages/apps/PhoneCommon" name="PureFusionOS/android_packages_apps_PhoneCommon" remote="fusion" />
 
