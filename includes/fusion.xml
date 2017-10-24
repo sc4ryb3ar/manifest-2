@@ -23,7 +23,7 @@
   <project path="development" name="PureFusionOS/android_development" remote="fusion" />
 
   <!-- Vendor -->
-  <project path="vendor/pure" name="sc4ryb3ar/Pure_Vendor" remote="github" />
+  <project path="vendor/pure" name="sc4ryb3ar/Pure_Vendor" remote="fusion" />
 
   <!-- System  -->
   <project path="system/bt" name="PureFusionOS/android_system_bt" remote="fusion" />
